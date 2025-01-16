@@ -68,8 +68,7 @@ Talker is deployed on **Render** and can be accessed via the live demo link belo
 ## Demo Video
 
 Watch the demo video showcasing Talker's features and functionality:
-
-![Talker Demo]([./path-to-video/demo-video.mp4](https://github.com/miruddin11/talker-chat-app/blob/main/Demo%20of%20Talker.mp4))_
+![Watch Video](https://github.com/user-attachments/assets/1558dce3-1d32-4ace-869d-0a34a4c14c8c)
 
 ## Contribution
 
